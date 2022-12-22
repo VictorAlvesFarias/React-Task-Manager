@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Task-Maneger/static/css/main.eb59d310.css",
+    "main.js": "/React-Task-Maneger/static/js/main.a2a65663.js",
+    "static/media/notbook_ilustration.png": "/React-Task-Maneger/static/media/notbook_ilustration.ec837d6c0e4eec0e9da5.png",
+    "static/media/lamp.png": "/React-Task-Maneger/static/media/lamp.62232ada07fb64b79b63.png",
+    "static/media/verify.png": "/React-Task-Maneger/static/media/verify.b3672b57e07a8ca34ff8.png",
+    "static/media/star.png": "/React-Task-Maneger/static/media/star.77f63e4797384bff527a.png",
+    "static/media/react_logo.png": "/React-Task-Maneger/static/media/react_logo.c2861c4dff64d52adf93.png",
+    "static/media/verify-full.png": "/React-Task-Maneger/static/media/verify-full.fffea57ae032141c0dbb.png",
+    "static/media/react_logo_grey.jpg": "/React-Task-Maneger/static/media/react_logo_grey.5595ab6dc6aeb295bb69.jpg",
+    "static/media/star-full.png": "/React-Task-Maneger/static/media/star-full.1732a9ff6e472070ef3a.png",
+    "static/media/junk.png": "/React-Task-Maneger/static/media/junk.6ae235ac3fac419fe7e6.png",
+    "index.html": "/React-Task-Maneger/index.html",
+    "main.eb59d310.css.map": "/React-Task-Maneger/static/css/main.eb59d310.css.map",
+    "main.a2a65663.js.map": "/React-Task-Maneger/static/js/main.a2a65663.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb59d310.css",
+    "static/js/main.a2a65663.js"
+  ]
+}
